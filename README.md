@@ -1,4 +1,4 @@
-# Adult_Income_Analysis_ML
+# DataAnalysis_ML
 
 In this repository, you can find a collection of data analysis projects I've worked on. Here are a few examples of projects I've worked on:
 
